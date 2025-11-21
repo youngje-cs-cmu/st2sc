@@ -1,6 +1,10 @@
 # st2sc
 
+Requirements
+Pytorch
+Numpy
+Pandas
+Matplotlib
+Scikit-image
 
-How to Run Demo
-
-
+Test run can be done by running main.py
